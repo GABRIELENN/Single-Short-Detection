@@ -53,7 +53,7 @@ PASCAL VOC: Visual Object Classes
 
 ##### Download VOC2007 trainval & test
 ```Shell
-# specify a directory for dataset to be downloaded into, else default is ~/data/
+# specify a directory for the dataset to be downloaded into, else default is ~/data/
 sh data/scripts/VOC2007.sh # <directory>
 ```
 
