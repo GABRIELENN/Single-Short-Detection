@@ -32,7 +32,7 @@ A [PyTorch](http://pytorch.org/) implementation of [Single Shot MultiBox Detecto
   # Start the server (probably in a screen or tmux)
   python -m visdom.server
   ```
-  * Then (during training) navigate to http://localhost:8097/ (see the Train section below for  trainings details).
+  * Then (during training), navigate to http://localhost:8097/ (see the Train section below for  trainings details).
 - Note: For training, we currently support [VOC](http://host.robots.ox.ac.uk/pascal/VOC/) and [COCO](http://mscoco.org/), and aim to add [ImageNet](http://www.image-net.org/) support soon.
 
 ## Datasets
