@@ -137,9 +137,9 @@ You can specify the parameters listed in the `eval.py` file by flagging them or 
 pip3 install --upgrade pip
 # install jupyter notebook
 pip install jupyter
-# Run this inside ssd.pytorch
+# Run this inside SSD.pytorch
 jupyter notebook
-```
+``
 
 - Now navigate to `demo/demo.ipynb` at http://localhost:8888 (by default) and have at it!
 
