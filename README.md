@@ -44,7 +44,7 @@ Microsoft COCO: Common Objects in Context
 
 ##### Download COCO 2014
 ```Shell
-# specify a directory for dataset to be downloaded into, else default is ~/data/
+# specify a directory for the dataset to be downloaded into, else default is ~/data/
 sh data/scripts/COCO2014.sh
 ```
 
